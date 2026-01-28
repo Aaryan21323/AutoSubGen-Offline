@@ -1,0 +1,23 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Executables
+*.exe
+*.dll
+*.pyd
+
+# Whisper / Torch cache
+__pycache__/
+*.pt
+*.bin
+
+# Python
+*.pyc
+.env
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
